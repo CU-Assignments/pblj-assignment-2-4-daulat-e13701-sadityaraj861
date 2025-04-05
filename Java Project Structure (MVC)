@@ -1,0 +1,9 @@
+JDBC_EmployeeApp/
+├── controller/
+│   └── EmployeeController.java
+├── model/
+│   └── Employee.java
+│   └── EmployeeDAO.java
+├── view/
+│   └── EmployeeView.java
+└── Main.java
